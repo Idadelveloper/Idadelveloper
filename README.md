@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Vue, Flask, Hugo or how to contribute to open source**
 
-- 📫 How to reach me **idadelm@gmail.com**
+- 📫 How to reach me (dm on twitter) **@idadelveloper**
 
 - 📄 Know about my experiences [idadelveloper.github.io/resume](idadelveloper.github.io/resume)
 
