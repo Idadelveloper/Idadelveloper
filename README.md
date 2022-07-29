@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **getting remote jobs/internships**
 
-- 👨‍💻 All of my projects are available at [https://github.com/idadelveloper](https://github.com/idadelveloper)
+- 👨‍💻 All of my projects are available at [idadelveloper.com/projects/](https://idadelveloper.com/projects/)
 
-- 📝 I regularly write articles on [idadelveloper.github.io/blog/](idadelveloper.github.io/blog/)
+- 📝 I regularly write articles on [idadelveloper.com/blog/](https://idadelveloper.com/blog)
 
-- 💬 Ask me about **React, Vue, Flask, Hugo or how to contribute to open source**
+- 💬 Ask me about **JavaScript, Python or how to contribute to open source**
 
 - 📫 How to reach me (dm on twitter) **@idadelveloper**
 
-- 📄 Know about my experiences [idadelveloper.github.io/resume](idadelveloper.github.io/resume)
+- 📄 Know about my experiences [idadelveloper.com/resume/](https://idadelveloper.com/resume)
 
 - ⚡ Fun fact **Swimming is my hobby (but I can't swim)**
 
