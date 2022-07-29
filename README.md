@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **JavaScript, Python or how to contribute to open source**
 
-- 📫 How to reach me (dm on twitter) **@idadelveloper**
+- 📫 How to reach me (dm on twitter) **@idadelveloper** or [here](https://idadelveloper.com/contact)
 
 - 📄 Know about my experiences [idadelveloper.com/resume/](https://idadelveloper.com/resume)
 
