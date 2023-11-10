@@ -5,15 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/idadelveloper" target="blank"><img src="https://img.shields.io/twitter/follow/idadelveloper?logo=twitter&style=for-the-badge" alt="idadelveloper" /></a> </p>
 
-- 🔭 I’m currently working on [SMS Without Borders](https://github.com/smswithoutborders)
-
-- 🌱 I’m currently learning **Go, Rust and Devops**
 
 - 👯 I’m looking to collaborate on **any cool open source projects**
 
 - 🤝 I’m looking for help with **getting remote jobs/internships**
-
-- 👨‍💻 All of my projects are available at [idadelveloper.com/projects/](https://idadelveloper.com/projects/)
 
 - 📝 I regularly write articles on [idadelveloper.com/blog/](https://idadelveloper.com/blog)
 
@@ -21,7 +16,6 @@
 
 - 📫 How to reach me (dm on twitter) **@idadelveloper** or [here](https://idadelveloper.com/contact)
 
-- 📄 Know about my experiences [idadelveloper.com/resume/](https://idadelveloper.com/resume)
 
 - ⚡ Fun fact **Swimming is my hobby (but I can't swim)**
 
