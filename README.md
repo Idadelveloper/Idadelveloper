@@ -8,11 +8,10 @@
 
 - 👯 I’m looking to collaborate on **any cool open source projects**
 
-- 🤝 I’m looking for help with **getting remote jobs/internships**
+- 🤝 Currently open to **software engineer roles**
 
-- 📝 I regularly write articles on [idadelveloper.com/blog/](https://idadelveloper.com/blog)
 
-- 💬 Ask me about **JavaScript, Python or how to contribute to open source**
+- 💬 Ask me about **JavaScript, Python, Kotlin or how to contribute to open source**
 
 - 📫 How to reach me (dm on twitter) **@idadelveloper** or [here](https://idadelveloper.com/contact)
 
