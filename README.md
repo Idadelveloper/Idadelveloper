@@ -22,9 +22,6 @@
 <p align="left">
 <a href="https://twitter.com/idadelveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idadelveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/idadelveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idadelveloper" height="30" width="40" /></a>
-<a href="https://fb.com/idadelveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idadelveloper" height="30" width="40" /></a>
-<a href="https://instagram.com/idadelveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idadelveloper" height="30" width="40" /></a>
-<a href="https://hashnode.com/idadelveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="idadelveloper" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idadelveloper&show_icons=true&locale=en&layout=compact" alt="idadelveloper" /></p>
